@@ -1,3 +1,3 @@
 class Solution:
-    def numberToWords(self, num: int) -> str:
+    def number_to_words(self, num: int) -> str:
         pass
